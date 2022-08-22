@@ -11,6 +11,6 @@
 
 6. build express app in functions/index.js
 
-7. test using firebase emulators:start
+7. test using `firebase emulators:start`
 
-8. deploy using firebase deploy
+8. deploy using `firebase deploy`
